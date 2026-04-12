@@ -7,4 +7,3 @@ Supply Chain Analytics — Demand Forecasting & Operations
 
 ->Problem Statement:DataCo Global is experiencing losses due to late deliveries, demand fluctuations, and inefficient inventory management.This project analyzes customer demand patterns, identifies delivery delay drivers, forecasts future product demand, and provides data-driven operational recommendations.
 
-->Project Structure
